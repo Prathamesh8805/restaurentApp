@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "bhongaleprathamesh@gmail.com",
+      "email": "bhongaleprathamesh@gmail.com",
+      "mobile": 8805706043,
+      "address": "At Post -Jeur Kumbhari, Harrison Branch",
+      "services": "hi"
+    },
+    {
+      "id": 3,
+      "name": "bhongaleprathamesh@gmail.com",
+      "email": "bhongaleprathamesh@gmail.com",
+      "mobile": 8805706043,
+      "address": "At Post -Jeur Kumbhari, Harrison Branch",
+      "services": "dffghjk"
+    },
+    {
+      "id": 4,
+      "name": "bhongaleprathamesh@gmail.com",
+      "email": "bhongaleprathamesh@gmail.com",
+      "mobile": 8805706043,
+      "address": "At Post -Jeur Kumbhari, Harrison Branch",
+      "services": ""
+    },
+    {
+      "id": 5,
+      "name": "bhongaleprathamesh@gmail.com",
+      "email": "bhongaleprathamesh@gmail.com",
+      "mobile": 8805706043,
+      "address": "At Post -Jeur Kumbhari, Harrison Branch",
+      "services": ""
+    },
+    {
+      "id": 6,
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "address": "",
+      "services": ""
+    },
+    {
+      "id": 7,
+      "name": null,
+      "email": null,
+      "mobile": null,
+      "address": null,
+      "services": null
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
